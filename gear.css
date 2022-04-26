@@ -1,0 +1,11 @@
+header{
+    background-image: url(../images/hero-image.jpg);
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: multiply;
+}
+h1{
+    font-size: 200%;
+    flex-grow: 1;
+    outline: none;
+}
