@@ -9,3 +9,7 @@ h1{
     flex-grow: 1;
     outline: none;
 }
+.thumbnail{
+    max-width: 150px;
+    width: 100%;
+}
